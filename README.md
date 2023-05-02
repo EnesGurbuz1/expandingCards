@@ -8,3 +8,6 @@ First, copy the command below. Then, open the terminal and navigate to the direc
 ```bash
   git clone https://github.com/EnesGurbuz1/expandingCards.git
 ```
+# Preview  
+![Screenshot_2](https://user-images.githubusercontent.com/101646471/235650685-6b85e17b-0da9-458f-bc49-4bfac8d2cab2.png)
+![Screenshot_3](https://user-images.githubusercontent.com/101646471/235650888-141a64d5-a711-4b16-9f0b-ce86ae6813f5.png)
