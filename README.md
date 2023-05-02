@@ -5,6 +5,6 @@ In this project that I did with the aim of self-improvement, I used HTML, CSS, a
 
 # Import 
 First, copy the command below. Then, open the terminal and navigate to the directory where you want to install the project, paste the command and run it.
-```http
+```bash
   git clone https://github.com/EnesGurbuz1/expandingCards.git
 ```
