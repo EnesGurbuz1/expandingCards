@@ -19,14 +19,14 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     height: 80vh;
-    border-radius: 68px;
+    border-radius: 98px;
     cursor: pointer;
     flex: 0.5;
     margin: 10px;
     position: relative;
     transition: flex 0.7s ease-in;
 }
-.active{
+.panel.active{
     flex: 5;
 }
 
